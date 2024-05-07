@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137355767357",
+    "project_id": "medilocker-7343f",
+    "storage_bucket": "medilocker-7343f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137355767357:android:d6f621d22a25061c598454",
+        "android_client_info": {
+          "package_name": "com.example.medilocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErAPvlxjCm0KvBWnBknOQwzRIvoQ5ESY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
